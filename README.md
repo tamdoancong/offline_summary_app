@@ -1,6 +1,7 @@
 How to use?
 1. Click on this link: https://github.com/tamdoancong/offline_summary_app
 2. Click on the green button.
+[!https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g1.png]
 3. Click on "Dowload ZIP".
 4. Go to Downloads folder in your computer.
 5. Right-click on the zip file "offline_summary_app-main".
