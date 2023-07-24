@@ -1,5 +1,5 @@
-#How to use this app?
-##I. How to download it?
+# How to use this app?
+## I. How to download it?
 1. Click on this link: https://github.com/tamdoancong/offline_summary_app
 2. Click on the green button.
    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g1.png)
@@ -18,7 +18,7 @@
 9. Right-click on the unzip file offline_summary_app-main (329 MB).
    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g8.png)
 10. Choose "Copy" or "Cut" to move this folder to a desired location (ex: App folder).
-##B. How to use it?
+## B. How to use it?
 1. Double-click on the folder "offline_summary_app-main".
      ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g9.png)!
 2. Double-click on the  "offline_summary" folder.
