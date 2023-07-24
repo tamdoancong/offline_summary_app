@@ -20,24 +20,24 @@
 10. Choose "Copy" or "Cut" to move this folder to a desired location (ex: App folder).
 ## B. How to use it?
 1. Double-click on the folder "offline_summary_app-main".
-     ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g9.png)!
+     ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g9.png)
 2. Double-click on the  "offline_summary" folder.
-    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g10.png)!
+    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g10.png)
 
 3. Double-click on the "offline_summary" file.
-   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g11.png)!
+   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g11.png)
 4. A blue window warning appear, click on " More info".
-   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g12.png)!
+   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g12.png)
 5. Click " Run anyway".
-   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g13.png)!
+   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g13.png)
 6. The app will be opened, then follow the instruction on the screen!
-   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g15.png)!
+   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g15.png)
 7. Click "Enter" for default number of summary sentences (5 sentences) or type a desired number summary sentences and click enter.
-   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g16.png)!
+   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g16.png)
 8. Click the "Upload a File" button at the bottom, a widow for browsing your file in your computer appear, then Choose a type of file (PDF or txt).
-   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g17.png)!
+   ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g17.png)
 9. Click on a desired file and click on the "Open" button, 
-    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g18.png)!
+    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g18.png)
 10. A result summary will appear in the screen in few seconds!
-    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g19.png)!
-    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g20.png)!
+    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g19.png)
+    ![](https://github.com/tamdoancong/offline_summary_app/blob/main/picture/deliver1/g20.png)
